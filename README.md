@@ -7,4 +7,4 @@ Pattern (Game) for correct class inheritance
 4. Adding Ironsights animation and aiming function along with sprint (Right Mouse Button - aiming, LeftShift - sprint)
 5. We aim the weapon in the direction of the sight (Pitch)
 6. Added crouching and weapon with jump (LeftCtrl - crouch) 
-7. Implementing logic of logic for finding and moving to a point on the map for NPC in AiController (Not BehaviourTree!)
+7. Implementing logic of logic for finding and moving to a point on the map for NPC in AiController (Not BehaviourTree!) // This is the logic behind the early version of the engine (UE4 4.19 in 2018)
