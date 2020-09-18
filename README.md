@@ -11,3 +11,4 @@ Pattern (Game) for correct class inheritance
 8. The NPC moves to a fire, tree, and other random point
 9. Added implementation of a rifle shot (LMB - shoot) 
 10. Adding ammo to weapon and reload (R - reload)
+11. Adding life and death to a character displaying on the screen
