@@ -10,3 +10,4 @@ Pattern (Game) for correct class inheritance
 7. Implementing logic of logic for finding and moving to a point on the map for NPC in AiController (Not BehaviourTree!) // This is the logic behind the early version of the engine (UE4 4.19 in 2018)
 8. The NPC moves to a fire, tree, and other random point
 9. Added implementation of a rifle shot (LMB - shoot) 
+10. Adding ammo to weapon and reload (R - reload)
