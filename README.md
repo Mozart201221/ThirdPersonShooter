@@ -13,3 +13,4 @@ Pattern (Game) for correct class inheritance
 10. Adding ammo to weapon and reload (R - reload)
 11. Adding life and death to a character displaying on the screen
 12. Adding taking weapons and ammunition (E - interact) 
+13. Adding death animation on body or head hits
