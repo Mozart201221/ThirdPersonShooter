@@ -14,3 +14,4 @@ Pattern (Game) for correct class inheritance
 11. Adding life and death to a character displaying on the screen
 12. Adding taking weapons and ammunition (E - interact) 
 13. Adding death animation on body or head hits
+14. Fixing bugs (Shooting, acceleration, crouching, aiming in jump; the animation of taking the rifle right away without completing it; error of an NPC that does not have NavMesh)
