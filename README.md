@@ -16,4 +16,4 @@ Pattern (Game) for correct class inheritance
 13. Adding death animation on body or head hits
 14. Fixing bugs (Shooting, acceleration, crouching, aiming in jump; the animation of taking the rifle right away without completing it; error of an NPC that does not have NavMesh)
 15. Adding a laser to a weapon while aiming.
-16. Adding patrol and attack system for NPC (The logic is built in the class "AIСontroller" without BehaviorTree //  **Add a diagram for the future!!**
+16. Adding patrol and attack system for NPC (The logic is built in the class "AIСontroller" without BehaviorTree) //  **Add a diagram for the future!!**
