@@ -21,3 +21,4 @@ Pattern (Game) for correct class inheritance
 18. Combining a widget about the status of NPC actions and components: attacks and patrols
 19. Adding to attack NPC
 20. Adding reloading for weapons (Attention! There is a bug here, when the reloading animation occurs, we can shoot)
+21. Collecting ammo from a dead NPC 
