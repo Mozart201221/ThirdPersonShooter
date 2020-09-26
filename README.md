@@ -23,3 +23,4 @@ Pattern (Game) for correct class inheritance
 20. Adding reloading for weapons (Attention! There is a bug here, when the reloading animation occurs, we can shoot)
 21. Collecting ammo from a dead NPC 
 22. Implementation of damage through the AnyDamage function, visual effect on damage and drop weapon
+23. Added a pistol as a firearm **(At this stage, there are drawbacks when taking one pistol)**
