@@ -24,3 +24,4 @@ Pattern (Game) for correct class inheritance
 21. Collecting ammo from a dead NPC 
 22. Implementation of damage through the AnyDamage function, visual effect on damage and drop weapon
 23. Added a pistol as a firearm **(At this stage, there are drawbacks when taking one pistol)**
+24. Add a landscape, also paint it and add trees, stone and grass from the free pack. Then we add everything to the landscape. We also create a pond with our own hands, that is, we work on the components of water. At the end we add a day and night cycle
