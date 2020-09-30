@@ -27,3 +27,5 @@ Pattern (Game) for correct class inheritance
 24. Add a landscape, also paint it and add trees, stone and grass from the free pack. Then we add everything to the landscape. We also create a pond with our own hands, that is, we work on the components of water. At the end we add a day and night cycle
 25. Adding a Blueprint that spawns NPCs on the ground
 26. Adding a simple quest. (In this quest, we go through a trigger that will spawn NPCs and which need to be destroyed. After killing and returning back to the trigger, the quest will go into the "completed" state)
+27. We display the name, description and reward for the quest-widget. Score Count Display
+
