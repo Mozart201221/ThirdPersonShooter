@@ -28,4 +28,5 @@ Pattern (Game) for correct class inheritance
 25. Adding a Blueprint that spawns NPCs on the ground
 26. Adding a simple quest. (In this quest, we go through a trigger that will spawn NPCs and which need to be destroyed. After killing and returning back to the trigger, the quest will go into the "completed" state)
 27. We display the name, description and reward for the quest-widget. Score Count Display
+28. Added a widget with a name to the items on the scene
 
